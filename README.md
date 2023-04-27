@@ -1,5 +1,5 @@
 # ps4-custom-gamepadviewer
 Gamepadviewer link with edited css and new ps4 controller layout:
-tbd
+https://gamepadviewer.com/?p=1&s=5&editcss=data:text/css;base64,LmNvbnRyb2xsZXIuZHM0IHsKICAgIGJhY2tncm91bmQ6IHVybChodHRwczovL2dpdGd1ZC5pby9NYWpvcl9aZXJvL2xpbWVzLWRzNC8tL3Jhdy9tYXN0ZXIvYmFzZS5zdmcpOwp9CgouZHM0IC5iYWNrLnByZXNzZWQsIC5kczQgLnN0YXJ0LnByZXNzZWQgewogICAgYmFja2dyb3VuZDogdXJsKGh0dHBzOi8vZ2FtZXBhZHZpZXdlci5jb20vcHM0LWFzc2V0cy9zdGFydC5zdmcpOwp9
 
 Template stolen from https://github.com/leunark/ps4-custom-gamepadviewer and intended for use on https://wwww.gamepadviewer.com.
